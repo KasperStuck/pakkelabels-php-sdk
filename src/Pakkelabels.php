@@ -1,7 +1,7 @@
 <?php
 require_once('PakkelabelsException.php');
 
-namespace KasperStuck;
+namespace Pakkelabels;
 
 class Pakkelabels {
   const API_ENDPOINT = 'https://app.pakkelabels.dk/api/public/v3';
