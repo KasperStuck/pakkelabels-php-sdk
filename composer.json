@@ -1,0 +1,15 @@
+{
+    "name": "KasperStuck/pakkelabels-php-sdk",
+    "type": "library",
+    "description": "PHP SDK for Pakkelabels.dk API",
+    "keywords": [
+        "php",
+        "sdk",
+        "pakkelabels"
+    ],
+    "autoload": {
+        "psr-4": {
+            "KasperStuck\\Pakkelabels\\": "src"
+        }
+    }
+}
